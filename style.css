@@ -1,5 +1,6 @@
 body{
   background:#ddffcc;
+  overflow:scroll;
 }
 .modal{
   display:none;
