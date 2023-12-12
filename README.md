@@ -1,1 +1,1 @@
-# popup
+# popup Box | JavaScript modal popup | JavaScript popup window onclick | Popup box html css javascript example | javascript modal popup codepen |javascript modal popup on button click | Javascript modal popup example | How to show popup modal in JavaScript?, How do you use modal pop up?, How do I show modal pop ups?| Popup Box or Data Modal |#javascript,#jsproject,#htm,#css,#jspopup,#responsivejs,#popupbox,#opendatamodal|#popupbox,#codingwithssr,#codingssr,#sivasundararajdesign|#webdesign,#webdevelopment| #sivasundararaj |#ssrdesign|
